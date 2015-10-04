@@ -20,7 +20,8 @@ $keyword = (isset($_REQUEST['utm_term']) ? $_REQUEST['utm_term'] : "");
         <Attribute name="title">The Capitol Condos</Attribute>
         <Attribute name="location">Kingston, Ontario</Attribute>
         <Attribute name="author">IN8 Developments</Attribute>
-        <Attribute name="description">The Capitol is a landmark building coming to the heart of downtown Kingston. In8 Developments is proud to revitalize this historic site once the home of The Capitol Kingston’s oldest movie theatre. For the first time Kingston will offer modern, clean, and affordable accommodations in the centre of everything. This one of a kind building available now starting from only $239,900.</Attribute>
+        <Attribute name="description">The Capitol Condos is the most
+        exciting condo development in Kingston. This one of a kind building is available now starting from only $239,900</Attribute>
         <Attribute name="page_count">1</Attribute>
         </DataObject>
   </PageMap>
